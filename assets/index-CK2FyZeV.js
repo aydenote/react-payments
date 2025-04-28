@@ -15937,7 +15937,7 @@ const AddText = dt.p`
 	color: #353c49;
 `;
 function App() {
-  return /* @__PURE__ */ jsxRuntimeExports.jsx(BrowserRouter, { basename: "/react-payments", children: /* @__PURE__ */ jsxRuntimeExports.jsxs(Routes, { children: [
+  return /* @__PURE__ */ jsxRuntimeExports.jsx(BrowserRouter, { basename: "/react-payments/", children: /* @__PURE__ */ jsxRuntimeExports.jsxs(Routes, { children: [
     /* @__PURE__ */ jsxRuntimeExports.jsx(Route, { path: "/", element: /* @__PURE__ */ jsxRuntimeExports.jsx(App$1, {}) }),
     /* @__PURE__ */ jsxRuntimeExports.jsx(Route, { path: "/addSuccess", element: /* @__PURE__ */ jsxRuntimeExports.jsx(CardAddSuccess, {}) })
   ] }) });
